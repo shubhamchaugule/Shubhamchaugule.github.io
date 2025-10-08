@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shubham Chaugule - Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+        a {
+            color: #0077b5;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Shubham Chaugule - Personal Website</h1>
+    <p><strong>Name:</strong> Shubham Chaugule</p>
+    <p><strong>Job Title:</strong> Manager - Shipping & Logistics</p>
+    <p><strong>Location:</strong> Senegal</p>
+    <p><strong>LinkedIn:</strong> 
+        https://www.linkedin.com/in/shubham-chaugule-0440b0145/
+            Visit my LinkedIn profile
+        </a>
+    </p>
+</body>
+</html>
