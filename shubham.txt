@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shubham Chaugule</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to right, #e0f7fa, #ffffff);
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+    }
+    header {
+      background-color: #0073e6;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+      border-radius: 0 0 10px 10px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    header p {
+      font-size: 1.2em;
+    }
+    section {
+      background: white;
+      margin-top: 20px;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #0073e6;
+      margin-bottom: 10px;
+    }
+    a {
+      color: #0073e6;
+      text-decoration: none;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Shubham Chaugule</h1>
+  <p>Manager – Shipping & Logistics | Abidjan, Senegal</p>
+</header>
+
+<div class="container">
+  <section>
+    <h2>About Me</h2>
+    <p>I am a logistics professional with extensive experience in shipping operations, port coordination, and international trade. Currently managing operations in Abidjan, Senegal, with a focus on improving efficiency and collaboration with global partners.</p>
+  </section>
+
+  <section>
+    <h2>Experience</h2>
+    <ul>
+      <li>Manager – Shipping & Logistics, [Your Company Name]</li>
+      <li>Coordination with MSC teams in Dubai and Abidjan</li>
+      <li>Expert in container tracking, documentation, and port operations</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: your.email@example.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/yournkedin.com/in/yourprofile</a></p>
+  </section>
+</div>
+
+<footer>
+  <p>© 2025 Shubham Chaugule</p>
+</footer>
+
+</body>
+</html>
